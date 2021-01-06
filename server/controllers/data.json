@@ -1,0 +1,72 @@
+[{
+    "id": 0,
+    "name": "Bus System",
+    "price": 50,
+    "convenience": 50,
+    "happiness": 10,
+    "image": "https://www.freeiconspng.com/thumbs/bus-png/bus-png-4.png"
+},
+{
+    "id": 1,
+    "name": "Traffic Control",
+    "price": 100,
+    "convenience": 20,
+    "happiness": -10,
+    "image": "https://www.globalhealthnow.org/sites/default/files/styles/100_objects_detail/public/images/2016-09/traffic%20light_0.jpg?itok=6-Z858Aw"
+},
+{
+    "id": 2,
+    "name": "Airport",
+    "price": 200,
+    "convenience": 50,
+    "happiness": 30,
+    "image": "https://compote.slate.com/images/222e0b84-f164-4fb1-90e7-d20bc27acd8c.jpg"
+},
+{
+    "id": 3,
+    "name": "Coffee Shop",
+    "price": 40,
+    "convenience": 40,
+    "happiness": 40,
+    "image": "https://www.screenly.io/assets/coffee-shop-digital-sign-c1a802afd67812d4f641854893f2ea8b94ade4c9df445cac471c4f8f27208e94.png"
+},
+{
+    "id": 4,
+    "name": "Restaurants",
+    "price": 120,
+    "convenience": 10,
+    "happiness": 30,
+    "image": "https://restaurant.eatapp.co/hs-fs/hubfs/Famous%20Restaurant%20Logos%20Red.png?width=3000&name=Famous%20Restaurant%20Logos%20Red.png"
+},
+{
+    "id": 5,
+    "name": "Supermarket",
+    "price": 100,
+    "convenience": 40,
+    "happiness": 30,
+    "image": "https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_retina/public/Aldi%20store_produce%20area.jpg?itok=EIbPYvCA"
+},
+{
+    "id": 6,
+    "name": "Club",
+    "price": 190,
+    "convenience": 20,
+    "happiness": 50,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bar-P1030319.jpg"
+},
+{
+    "id": 7,
+    "name": "Park",
+    "price": 20,
+    "convenience": 10,
+    "happiness": 30,
+    "image": "https://www.gaithersburgmd.gov/Home/ShowPublishedImage/3702/636975938645800000"
+},
+{
+    "id": 8,
+    "name": "Zoo",
+    "price": 300,
+    "convenience": 5,
+    "happiness": 30,
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_396,q_75,w_704/https://assets.simpleviewinc.com/simpleview/image/upload/crm/houston/Asian-Elephant-0479-0654-783906ecce425e6_783908b6-f2dd-dbab-baaafeb9c82c3d70.jpg"
+}]
