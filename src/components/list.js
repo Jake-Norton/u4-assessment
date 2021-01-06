@@ -8,7 +8,6 @@ const List = (props) => {
         <h2>City Services</h2>
         {props.list.listItems.map((element) => (
           <ListItem
-            changeQuantity={props.changeQuantity}
             cancel={props.cancel}
             key={element.list_id}
             data={element}
